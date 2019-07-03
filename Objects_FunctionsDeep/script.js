@@ -272,7 +272,7 @@ c) correct answer (I would use a number for this)
 */
 
 
-/*
+
 (function() {
     function Question(question, answers, correct) {
         this.question = question;
@@ -307,7 +307,7 @@ c) correct answer (I would use a number for this)
     var answer = parseInt(prompt('Please select the correct answer.'));
     questions[n].checkAnswer(answer);
 })();
-*/
+
 
 
 
@@ -320,7 +320,7 @@ c) correct answer (I would use a number for this)
 */
 
 
-/*
+
 (function() {
     function Question(question, answers, correct) {
         this.question = question;
@@ -390,4 +390,3 @@ c) correct answer (I would use a number for this)
     nextQuestion();
     
 })();
-*/
